@@ -1,12 +1,11 @@
 ## Welcome to Volcanoes and Earthquakes in 3 dimensions
 
-Raluca Nicola created a visualization for [earthquakes](https://ralucanicola.github.io/earthquakes-viz) which creates a 3 dimension map of earthquakes on Earth's globe. It can be manipulated to visualize sections of the Earth.
+Raluca Nicola created a visualization for [earthquakes](https://ralucanicola.github.io/earthquakes-viz) which creates a 3 dimension map of earthquakes on Earth's globe. It can be manipulated to visualize sections of the Earth. 
 
-You can use the [editor on GitHub](https://github.com/ptrhaney/practice/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+The visualizations are viewed best with a touchscreen computer, tablet or even your smartphone. They may take time to load as there can be as many as 20,000 earthquakes. Once the Earth globe starts to rotate you can then spin the globe to go to the location of the map as they may not initially be evident.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-test and retest
 
 ![stromboli](./stromboli.png)
 
