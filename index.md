@@ -1,6 +1,6 @@
 ## Welcome to Volcanoes and Earthquakes
 
-Raluca Nicola created a visualization for [earthquakes](https://ralucanicola.github.io/earthquake-viz) which creates a 3 dimension map of earthquakes on Earth's globe. It can be manipulated to visualize sections of the Earth. 
+Raluca Nicola created a visualization for [earthquakes](https://ralucanicola.github.io/earthquakes-viz) which creates a 3 dimension map of earthquakes on Earth's globe. It can be manipulated to visualize sections of the Earth. https://ralucanicola.github.io/earthquakes-viz/
 You can use the [editor on GitHub](https://github.com/ptrhaney/practice/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
