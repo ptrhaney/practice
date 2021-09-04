@@ -9,6 +9,9 @@ test and retest
 
 ![stromboli](./stromboli.png)
 
+![luzon](./luzon.png)
+[Luzon 3D map](https://ptrhaney.github.io/luzon)
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
